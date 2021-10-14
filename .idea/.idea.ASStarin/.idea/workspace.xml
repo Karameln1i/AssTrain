@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc164e48-c6d3-4a6c-a717-4f4fd8ccfa08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeftHumaneMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WomanAss.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCollisionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Poc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ManCollisionHnadler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlaneMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InterectionObjectSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectCreator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Woman.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GestureHadler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WomanAss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaneMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/InteractionSystem/InteractionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/change hand position.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInterectionSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HumansChecker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeHandRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WomanCollisionHnadler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManCollisionHnadler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftHumaneMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Walker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInterectionObjectSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InterectionObjectSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManAss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCillisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Poc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/_DEMOS/FBBIK/Scripts/InteractionSystemTestGUI.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vtisD4xB3NFiPiyHufSEoscJY7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc164e48-c6d3-4a6c-a717-4f4fd8ccfa08" name="Default Changelist" comment="" />
+      <created>1627387994406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627387994406</updated>
+      <workItem from="1627387996987" duration="10955000" />
+      <workItem from="1627466134909" duration="9082000" />
+      <workItem from="1627479022349" duration="4770000" />
+      <workItem from="1627495330391" duration="1960000" />
+      <workItem from="1627640391110" duration="852000" />
+      <workItem from="1627742841465" duration="2017000" />
+      <workItem from="1627761294309" duration="52000" />
+      <workItem from="1627811851663" duration="2083000" />
+      <workItem from="1627826032228" duration="2431000" />
+      <workItem from="1627828580133" duration="5381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="244" key="RiderGenerateDialog" timestamp="1627832753062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="244" key="RiderGenerateDialog/0.0.1920.1040/-1600.59.1600.860@0.0.1920.1040" timestamp="1627832753062" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627407114325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1600.59.1600.860@0.0.1920.1040" timestamp="1627407114325" />
+  </component>
+</project>

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/BootScene.unity
+    guid: a35272a9b21a203498b86134894505c1
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_1.unity
+    guid: 1c1028f314b11724c86ed5ed2ac3b187
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_2.unity
+    guid: c72ae937b5f97434d8efdd9c39283381
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_3.unity
+    guid: b431eeba5ca7a114baaee31368e8afd1
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_4.unity
+    guid: 90abc603e5c20704fb4ca9cac2b50674
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_5.unity
+    guid: 7ee95ea0e0c64c446bd46b6ca04656dd
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_6.unity
+    guid: 09f60a9f852f8ca4ea88cd04dcb57067
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_7.unity
+    guid: b996d97e79dcb5540bc50d7da8dd5541
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_8.unity
+    guid: 924f4909b03f47a4f9625d564d89bf3a
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_9.unity
+    guid: 22e2ca82393a3c34f951aa86453517b0
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_10.unity
+    guid: b5e1b355e1bfbcb4a932cf62eb37abaf
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_11.unity
+    guid: d18bc4b192e625940a031e2ee33d2238
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_12.unity
+    guid: 458debb4bf0c9494fafaee9f593d7e86
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_13.unity
+    guid: 1684de229c700584e9e308ec3f10016e
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_14.unity
+    guid: af59626ae99b3574cbf78073821dac16
+  - enabled: 1
+    path: Assets/Scenes/Levels/FinalLevels/Level_15.unity
+    guid: c59a2d3ee45ea3a4187b896871fdd52c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a1837f6a3b865d3409c77ba1e14394eb, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a91d09d8b35adc24287855763cb665ee, type: 2}

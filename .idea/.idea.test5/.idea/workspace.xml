@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42dfa963-ee40-4b62-aca9-e58a9b49684d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/CountingMoney.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Unity/Good/Assets/Amplitude/Amplitude.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChargeMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/CountingMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DynamicResolution.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FPS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/LevelPassedPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Analitycs/BootScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetOffCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PointScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/GenderBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClothDataBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClothInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftHumanAss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shopp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClickReciver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Analitycs/BootSceneAnalytic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Analitycs/AmplitudeAnalytics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RememberNextLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadLastPassedLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RememberLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NextLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DetectSwipe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Animations.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yPdfslbqKFS9aksnDKYgtjJua1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42dfa963-ee40-4b62-aca9-e58a9b49684d" name="Default Changelist" comment="" />
+      <created>1632157263617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632157263617</updated>
+      <workItem from="1632157270923" duration="4055000" />
+      <workItem from="1632167719655" duration="1237000" />
+      <workItem from="1632238405615" duration="1205000" />
+      <workItem from="1632319192939" duration="2711000" />
+      <workItem from="1632400650324" duration="6588000" />
+      <workItem from="1632415519177" duration="2856000" />
+      <workItem from="1632485364814" duration="8705000" />
+      <workItem from="1632516655750" duration="3629000" />
+      <workItem from="1633345099615" duration="703000" />
+      <workItem from="1633345828868" duration="4227000" />
+      <workItem from="1633715325028" duration="658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="60" y="78" width="1616" height="947" maximized="true" key="dock-window-1" timestamp="1633350413361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="60" y="78" width="1616" height="947" maximized="true" key="dock-window-1/0.0.1920.1040/-1600.59.1600.860@-1600.59.1600.860" timestamp="1633350413361" />
+    <state x="60" y="78" width="1616" height="947" key="dock-window-1/0.0.1920.1040/-1600.59.1600.860@0.0.1920.1040" timestamp="1633347963617" />
+  </component>
+</project>

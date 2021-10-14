@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2d9a3c4-f261-4ee2-b81f-5d5d6fd31cf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Leg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/ClothListView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shop/ProductInformation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMachine/Transition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/GameMoney.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shop/RememberData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/ClothDataBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlaySounds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/ClothData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/ClothInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/ClothPresenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMachine/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChargeMoney.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMachine/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/Shopp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/ClothInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HumanAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewShop/PutOnClothes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shop/DataHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shop/LoadSceneData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shop/RememberClothes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shop/DataHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shop/LoadSceneData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shop/New/ItemView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Clothes/Odejda.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clothss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Clothes/Cloth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMachine/Transition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMachine/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMachine/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothDataBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothListView.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/MeshRendererContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadSceneButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TakeDataPreviousScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Hat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/CountingMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/EndLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DetectSwipe.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HumanCollisionHnadler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HumanAnimatin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChargeMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/GameMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/Shopp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShowMoney.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaySounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HumanAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetOffCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/GenderBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/PutOnClothes.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewShop/ClothPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AmplitudeAnlytics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PointScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Animations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Colision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManAss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shop/RememberData.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xAorgfR9zEpRmYfvuN4oqAe1QQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d9a3c4-f261-4ee2-b81f-5d5d6fd31cf7" name="Default Changelist" comment="" />
+      <created>1629807457789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629807457789</updated>
+      <workItem from="1629807461245" duration="15335000" />
+      <workItem from="1629972271137" duration="15022000" />
+      <workItem from="1630002084262" duration="1746000" />
+      <workItem from="1630004527677" duration="3908000" />
+      <workItem from="1630056905189" duration="23259000" />
+      <workItem from="1630145084637" duration="10501000" />
+      <workItem from="1630235826931" duration="13790000" />
+      <workItem from="1630322257693" duration="4440000" />
+      <workItem from="1630327134293" duration="5698000" />
+      <workItem from="1630345283907" duration="3661000" />
+      <workItem from="1630411612490" duration="1150000" />
+      <workItem from="1630421799068" duration="3238000" />
+      <workItem from="1630486643799" duration="295000" />
+      <workItem from="1630487630519" duration="14018000" />
+      <workItem from="1630514134364" duration="2705000" />
+      <workItem from="1630583797208" duration="1585000" />
+      <workItem from="1630599499371" duration="999000" />
+      <workItem from="1630605225514" duration="648000" />
+      <workItem from="1630692388761" duration="1302000" />
+      <workItem from="1630751457728" duration="5897000" />
+      <workItem from="1630778283500" duration="629000" />
+      <workItem from="1630855516219" duration="598000" />
+      <workItem from="1631099574375" duration="831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1630250958219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1600.59.1600.860@0.0.1920.1040" timestamp="1630250958219" />
+  </component>
+</project>

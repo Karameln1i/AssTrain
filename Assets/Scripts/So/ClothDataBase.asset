@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c999545a6ed53294dad8adf0350b69e4, type: 3}
+  m_Name: ClothDataBase
+  m_EditorClassIdentifier: 
+  _defaultClothIndex: 0
+  _data:
+  - {fileID: 4136666542958424359, guid: dd4d3d9c9521c904dab150c5830c71a6, type: 3}
+  - {fileID: 593164814463765944, guid: 440d9c6339cd9cb489a10350e6bcc18d, type: 3}
+  - {fileID: 6712297130242136684, guid: 0b7adc5265e5c2540937400c11ee22a7, type: 3}
+  - {fileID: 6796616050536773056, guid: e94bb64d0534ac847937710b5008b804, type: 3}
+  - {fileID: 2366568067770496481, guid: 4469e2890b8fcc941ac365c784b82af2, type: 3}
+  - {fileID: 9192577634836444899, guid: b1ed6c429ca9aaf4d93650dff15b992e, type: 3}
+  - {fileID: 2426000887677367974, guid: 483f2204109a3474fb76999e2eeaf511, type: 3}
+  - {fileID: 9189610802832772314, guid: 4db5d80c8f9dff040810433c712f2c0b, type: 3}
